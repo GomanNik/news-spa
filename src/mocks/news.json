@@ -1,0 +1,39 @@
+{
+  "status": "ok",
+  "totalResults": 24,
+  "articles": [
+    {
+      "title": "SpaceX запустила очередную партию Starlink",
+      "description": "Ракета Falcon 9 успешно вывела на орбиту 22 спутника.",
+      "url": "https://example.com/spacex",
+      "urlToImage": "https://images.unsplash.com/photo-1581091870622-7b1c1ae0f7f7?w=1200",
+      "source": { "name": "Example News" },
+      "publishedAt": "2025-10-26T07:30:00.000Z",
+      "author": "Newsroom",
+      "content": "Полный текст заметки…",
+      "category": "science"
+    },
+    {
+      "title": "Биржи открылись ростом",
+      "description": "Индекс вырос на фоне позитивных ожиданий.",
+      "url": "https://example.com/markets",
+      "urlToImage": "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?w=1200",
+      "source": { "name": "Finance Daily" },
+      "publishedAt": "2025-10-26T06:10:00.000Z",
+      "author": "Analyst",
+      "content": "Подробнее об индексе…",
+      "category": "business"
+    },
+    {
+      "title": "Технологический саммит: ключевые анонсы",
+      "description": "Представлены новинки ИИ и облаков.",
+      "url": "https://example.com/tech-summit",
+      "urlToImage": "https://images.unsplash.com/photo-1518779578993-ec3579fee39f?w=1200",
+      "source": { "name": "TechWorld" },
+      "publishedAt": "2025-10-25T15:00:00.000Z",
+      "author": "Reporter",
+      "content": "Подробности о новинках…",
+      "category": "technology"
+    }
+  ]
+}
